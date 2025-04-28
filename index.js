@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ruff = () => {
+const rufff = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const ruff = () => {
   )
 }
 
-export default ruff
+export default rufff
